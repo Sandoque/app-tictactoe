@@ -11,7 +11,7 @@
 
 ## :dash: Deploy da Aplicação com Netlify
 
-https://my-tictactoe-igti.netlify.app/
+> https://my-tictactoe-igti.netlify.app/
 
 ---
 
