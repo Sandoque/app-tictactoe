@@ -9,6 +9,12 @@
 
 ---
 
+## :dash: Deploy da Aplicação com Netlify
+
+https://my-tictactoe-igti.netlify.app/
+
+---
+
 ## 📖 Sobre
 
 <p>Usando Angular, o jogo foi criado para a primeira pratica  do Módulo Angular do Bootcamp Desenvolvedor Front End do IGTI.</p>
