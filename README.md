@@ -57,7 +57,7 @@ Exercitar os seguintes objetos de estudo:
 
 #### Rodar o servidor
 
-- Rodar `ng serve --open`
+- `ng serve --open`
 - Navegar em `http://localhost:4200/`
 
 ---
